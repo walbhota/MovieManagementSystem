@@ -1,0 +1,12 @@
+C:\Users\walbh\source\repos\MovieManagementCQRSDemo\MovieManagement.Library\bin\Debug\net6.0\MovieManagement.Library.deps.json
+C:\Users\walbh\source\repos\MovieManagementCQRSDemo\MovieManagement.Library\bin\Debug\net6.0\MovieManagement.Library.dll
+C:\Users\walbh\source\repos\MovieManagementCQRSDemo\MovieManagement.Library\bin\Debug\net6.0\MovieManagement.Library.pdb
+C:\Users\walbh\source\repos\MovieManagementCQRSDemo\MovieManagement.Library\obj\Debug\net6.0\MovieManagement.Library.csproj.AssemblyReference.cache
+C:\Users\walbh\source\repos\MovieManagementCQRSDemo\MovieManagement.Library\obj\Debug\net6.0\MovieManagement.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walbh\source\repos\MovieManagementCQRSDemo\MovieManagement.Library\obj\Debug\net6.0\MovieManagement.Library.AssemblyInfoInputs.cache
+C:\Users\walbh\source\repos\MovieManagementCQRSDemo\MovieManagement.Library\obj\Debug\net6.0\MovieManagement.Library.AssemblyInfo.cs
+C:\Users\walbh\source\repos\MovieManagementCQRSDemo\MovieManagement.Library\obj\Debug\net6.0\MovieManagement.Library.csproj.CoreCompileInputs.cache
+C:\Users\walbh\source\repos\MovieManagementCQRSDemo\MovieManagement.Library\obj\Debug\net6.0\MovieManagement.Library.dll
+C:\Users\walbh\source\repos\MovieManagementCQRSDemo\MovieManagement.Library\obj\Debug\net6.0\refint\MovieManagement.Library.dll
+C:\Users\walbh\source\repos\MovieManagementCQRSDemo\MovieManagement.Library\obj\Debug\net6.0\MovieManagement.Library.pdb
+C:\Users\walbh\source\repos\MovieManagementCQRSDemo\MovieManagement.Library\obj\Debug\net6.0\ref\MovieManagement.Library.dll

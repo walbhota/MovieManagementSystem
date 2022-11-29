@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yrx1+BcgLv7LiKEV9ns2BtN3gUdDCvn2nOvZZ/vGgHrHQLAQK59Gq2w2PYHFpB1ySPVkRC21QnZQ68VFpiJmag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\walbh\\source\\repos\\MovieManagementCQRSDemo\\MovieManagement.Library\\MovieManagement.Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\walbh\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
